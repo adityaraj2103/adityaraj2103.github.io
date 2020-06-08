@@ -1,0 +1,108 @@
+#Top {
+	background-image: url("cats.jpg");
+	background-size: cover;
+	height: 100vh;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	background-position-x: -3rem;
+}
+.container {
+	padding-top: 3rem;
+}
+.jumbotron {
+	visibility: visible;
+	text-align: left;
+	width: 70%;
+	padding: 1rem;
+	height: auto;
+	margin-top: 14%;
+	background-color: transparent;
+	color: white;
+	margin-left: 1rem!important;
+}
+.jumbotron h1{
+	text-shadow: 2px 2px 4px #000000;
+}
+.jumbotron p{
+	text-shadow: 2px 2px 4px #000000;
+}
+.navbar-brand {
+	font-family: 'Oregano', cursive;
+	text-shadow: 2px 2px 4px #000000;
+}
+.nav-item .nav-link {
+	color: white;
+}
+#middleOne h1 {
+	font-weight: 100;
+	font-family: 'Roboto', sans-serif;
+	margin-top: 5rem;
+	margin-bottom: 1rem;
+	text-align: center;
+}
+#middleTwo h1{
+	font-weight: 100;
+	font-family: 'Roboto', sans-serif;
+	margin-top: 3rem;
+	margin-bottom: 1rem;
+	text-align: center;
+}
+#links {
+	font-family: 'Comfortaa', cursive;
+	font-weight: 300;
+}
+.navbar-dark .navbar-nav .nav-link {
+	color: rgba(255,255,255,0.7);
+	text-shadow: 2px 2px 4px #000000;
+	margin-left: 1rem;
+	margin-right: 1rem;
+}
+.navbar-dark .navbar-brand {
+	color: #fff;
+	margin-left: 1rem;
+}
+.col-6 {
+	height: 200px;
+	border: 2px 2px solid blue;
+}
+#about {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	
+}
+#myImage {
+	border-radius: 50%;
+}
+.col-12 img {
+	margin: auto;
+	display: block;
+}
+.carousel-item img {
+	width: 75%;
+	margin: auto;
+	padding-top: 3rem;
+}
+#last {
+	background-color: rgb(95, 89, 94);
+	margin-top: 3rem;
+}
+#last hr {
+	border-top: 1px solid #e5e8ff;
+	width: 75%;
+	margin-top: -0.9rem;
+}
+#last .filter-white{
+	filter: invert(85%) sepia(22%) saturate(488%) hue-rotate(198deg) brightness(103%) contrast(104%);
+}
+#last .copyright {
+	background-color: rgb(70, 70, 70);
+	color: #fff;
+	text-align: center;
+	padding: 0.01rem !important;
+	font-weight: 100;
+	
+}
+#last p {
+	margin-bottom: 0rem;
+	text-align: center;
+}
